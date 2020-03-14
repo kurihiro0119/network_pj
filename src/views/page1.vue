@@ -5,7 +5,4 @@
 </template>
 
 <style scoped>
-.page1 {
-  height: 1000px;
-}
 </style>
