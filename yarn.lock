@@ -4040,8 +4040,8 @@ find-up@^4.0.0, find-up@^4.1.0:
 
 firebase@^7.11.0:
   version "7.11.0"
-  resolved "https://registry.npm.taobao.org/firebase/download/firebase-7.11.0.tgz#706e75e2f285e9aa852648f0c23598ed4a8762fa"
-  integrity sha1-cG514vKF6aqFJkjwwjWY7UqHYvo=
+  resolved "https://registry.yarnpkg.com/firebase/-/firebase-7.11.0.tgz#706e75e2f285e9aa852648f0c23598ed4a8762fa"
+  integrity sha512-8grsK7aSu1WmaVzxkueOylqZJM7Gf2S4OZO5gQRYwvPnmCsnjfKkSbPrxlEt5znyKuAOgud0ECUXFpj/e0OBtg==
   dependencies:
     "@firebase/analytics" "0.2.17"
     "@firebase/app" "0.5.6"
